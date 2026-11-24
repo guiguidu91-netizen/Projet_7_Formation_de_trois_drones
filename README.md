@@ -50,10 +50,11 @@ Projet-7-Formation_de_trois_drones/
 ├── theorie/       # Étude théorique et bibliographie
 ├── matlab/        # Modélisation et simulations MATLAB
 ├── python/        # Algorithmes et traitement des données
+├── ressources/    # Fichiers fournis par M.Nehaoua
 ├── ros2_ws/
 │   └── src/       # Packages et nœuds ROS 2
 ├── data/          # Données expérimentales et mesures Vicon
-└── results/       # Figures et résultats de validation
+└── resultats/     # Figures et résultats de validation
 ```
 ## 6. Planning et jalons
 
