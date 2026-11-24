@@ -44,6 +44,7 @@ Le système repose sur deux couches principales :
 ## 5. Organisation du dépôt
 
 Projet-7-Tello/
+|---|---|---|
 ├── README.md
 ├── doc/           # Rapports, documentation et planning
 ├── theorie/       # Étude théorique et bibliographie
