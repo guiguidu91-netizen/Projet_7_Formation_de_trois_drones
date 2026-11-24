@@ -44,7 +44,7 @@ Le système repose sur deux couches principales :
 ## 5. Organisation du dépôt
 
 ```text
-Projet-7-Tello/
+Projet-7-Formation_de_trois_drones/
 ├── README.md
 ├── doc/           # Rapports, documentation et planning
 ├── theorie/       # Étude théorique et bibliographie
