@@ -18,6 +18,7 @@ Nous travaillons sur un module divisé en 7 projets, nous avons choisi le projet
 ## 3. Membres du groupe et répartition des rôles
 
 | Membre    | Rôle                       | Responsabilités |
+|---|---|---|
 | Alexandre | Intégration validation     | Python, validation hors ligne, comparaison simulation/expérimentation |
 |           | Théorie et simulation      | Modélisation, lois de commande, MATLAB |
 |           | Essais et données          | Protocole expérimental, Vicon, acquisition |
@@ -56,6 +57,7 @@ Projet-7-Tello/
 ## 6. Planning et jalons
 
 | Jalon | Description                                       | Date limite |
+|---|---|---|
 | J0    | Création du dépôt GitHub et répartition des rôles | 24/11/2026  |
 | J1    | Théorie et reproduction des résultats             | 01/12/2026  |
 | J2    | Campagne de mesure Vicon                          | 09/12/2026  |
