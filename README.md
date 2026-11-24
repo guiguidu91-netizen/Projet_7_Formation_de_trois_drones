@@ -56,7 +56,7 @@ Projet-7-Tello/
 
 ## 6. Planning et jalons
 
-| Jalon | Description                                       | Date limite |
+| Jalon | Description | Date limite |
 |---|---|---|
 | J0    | Création du dépôt GitHub et répartition des rôles | 24/11/2026  |
 | J1    | Théorie et reproduction des résultats             | 01/12/2026  |
