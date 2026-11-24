@@ -19,10 +19,10 @@ Nous travaillons sur un module divisé en 7 projets, nous avons choisi le projet
 
 | Membre    | Rôle                       | Responsabilités |
 |---|---|---|
-| Alexandre | Intégration validation     | Python, validation hors ligne, comparaison simulation/expérimentation |
-|           | Théorie et simulation      | Modélisation, lois de commande, MATLAB |
-|           | Essais et données          | Protocole expérimental, Vicon, acquisition |
-|           | Coordination               | GitHub, planning, documentation et livrables |
+| Alexandre & Ralph   | Intégration validation     | Python, validation hors ligne, comparaison simulation/expérimentation |
+| Kaushik & Guillaume | Théorie et simulation      | Modélisation, lois de commande, MATLAB |
+| Jan & Kaushik       | Essais et données          | Protocole expérimental, Vicon, acquisition |
+| Ralph & Alexandre   | Coordination               | GitHub, planning, documentation et livrables |
 
 ## 4. Architecture du système
 
