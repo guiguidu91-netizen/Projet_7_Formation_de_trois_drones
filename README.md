@@ -43,8 +43,8 @@ Le système repose sur deux couches principales :
 
 ## 5. Organisation du dépôt
 
+```text
 Projet-7-Tello/
-|---|---|---|
 ├── README.md
 ├── doc/           # Rapports, documentation et planning
 ├── theorie/       # Étude théorique et bibliographie
@@ -54,7 +54,7 @@ Projet-7-Tello/
 │   └── src/       # Packages et nœuds ROS 2
 ├── data/          # Données expérimentales et mesures Vicon
 └── results/       # Figures et résultats de validation
-
+```
 ## 6. Planning et jalons
 
 | Jalon | Description | Date limite |
