@@ -60,11 +60,37 @@ Projet-7-Formation_de_trois_drones/
 
 | Jalon | Description | Date limite |
 |---|---|---|
-| J0    | Création du dépôt GitHub et répartition des rôles | 24/11/2026  |
-| J1    | Théorie et reproduction des résultats             | 01/12/2026  |
-| J2    | Campagne de mesure Vicon                          | 09/12/2026  |
-| J3    | Validation hors ligne                             | 15/12/2026  |
-| J4    | Rapport final, nœud ROS 2 et soutenance           | 05/01/2027  |
+| J0 | Création du dépôt GitHub et répartition des rôles | 24/11/2026 |
+| J1 | Théorie et reproduction des résultats | 01/12/2026 |
+| J2 | Campagne de mesure Vicon | 09/12/2026 |
+| J3 | Validation hors ligne | 15/12/2026 |
+| J4 | Rapport final, nœud ROS 2 et soutenance | 05/01/2027 |
+
+### 6.1. Diagramme de Gantt
+
+Le planning prévisionnel tient compte du calendrier d'alternance, des créneaux d'accès aux drones et au système Vicon, ainsi que des échéances de remise des différents livrables.
+
+<p align="center">
+  <img src="doc/Gantt_Projet_7_Tello_V3.png" alt="Diagramme de Gantt du projet 7" width="100%">
+</p>
+
+<p align="center">
+  <i>Figure 1 – Diagramme de Gantt du projet 7</i>
+</p>
+
+### 6.2. Créneaux d'accès aux drones
+
+| Date | Activités expérimentales prévues |
+|---|---|
+| 24/11/2026 | Prise en main du matériel et de l'environnement |
+| 25/11/2026 | Premiers essais et prise en main du SDK Tello |
+| 30/11/2026 | Essais unitaires et caractérisation |
+| 07/12/2026 | Essais en formation et acquisition Vicon |
+| 08/12/2026 | Campagne de mesure Vicon |
+| 15/12/2026 | Essais complémentaires et amélioration de la commande |
+| 04/01/2027 | Intégration et validation expérimentale finale |
+
+Les activités nécessitant les drones sont concentrées sur ces créneaux. Les autres journées universitaires sont consacrées à la modélisation, à la simulation, au développement logiciel, au traitement des données et à la rédaction.
 
 ## 7. Environnement technique
 
