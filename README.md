@@ -116,3 +116,4 @@ et de chaque tableau présentés dans le rapport final.
   Centralized UAV Formation, ICUAS, 2014.
 - Sujet officiel du projet 7 :
   https://lnehaoua.com/new/integrated_control/pages/formation.html
+- Ressource : https://lnehaoua.com/drone/tello.html
